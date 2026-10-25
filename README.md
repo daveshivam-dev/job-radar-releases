@@ -16,8 +16,7 @@ jobs first, in one list, filtered your way. Free while it is being improved with
 
 ## Install on a Mac
 
-Needs Python 3.9 or newer. Most Macs have it; if not, the installer tells you, and you can get it from
-[python.org](https://www.python.org/downloads/macos/).
+Nothing else to install first: Job Radar brings its own copy of Python (about 25 MB, downloaded once).
 
 1. Open **Terminal** (press Cmd + Space, type Terminal, press Enter).
 2. Type `bash ` (with a space after it), drag the file `install_mac.sh` from the `job-radar` folder into the
@@ -28,8 +27,7 @@ Job Radar opens and appears in **Applications**. Drag it to the Dock to keep it 
 
 ## Install on Windows
 
-Needs Python 3.9 or newer from [python.org](https://www.python.org/downloads/windows/): in its installer, tick
-**Add python.exe to PATH**.
+Nothing else to install first: Job Radar brings its own copy of Python (about 48 MB, downloaded once).
 
 1. Double-click `install_windows.bat` in the `job-radar` folder.
 2. If Windows warns about the file, choose **More info**, then **Run anyway**.
