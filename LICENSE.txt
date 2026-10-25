@@ -1,6 +1,6 @@
 Job Radar licence
 
-Copyright (c) 2026 the authors of Job Radar. All rights reserved.
+Copyright (c) 2026 Shivam Dave. All rights reserved.
 
 Job Radar is free to use, for now, under these terms.
 

@@ -34,4 +34,4 @@ for up to 1 year. To have it deleted, send feedback with your ID.
 
 ## Who is responsible
 
-The authors of Job Radar. Contact: "Send feedback" in the app.
+Shivam Dave. Contact: "Send feedback" in the app.
