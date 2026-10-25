@@ -9,9 +9,12 @@ jobs first, in one list, filtered your way. Free while it is being improved with
 - **"English is enough"** filter, and roles recognised in Czech, Slovak, Polish, German, Dutch and Hungarian
 - Everything stays on your computer; updates install with one click
 
+New here? The **[user guide](USER-GUIDE.md)** covers installing, first steps and every screen.
+
 ## Download
 
-1. Open **[Releases](../../releases/latest)** and download `Job-Radar-<version>-setup.zip`.
+1. Open **[Releases](../../releases/latest)** and download `Job-Radar-<version>-setup.zip`. That is the only file
+   you need: the others are used by automatic updates, and "Source code" holds only the text of this page.
 2. Unzip it. You get a folder called `job-radar`.
 
 ## Install on a Mac
