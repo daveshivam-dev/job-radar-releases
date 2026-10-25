@@ -1,0 +1,21 @@
+Job Radar licence
+
+Copyright (c) 2026 the authors of Job Radar. All rights reserved.
+
+Job Radar is free to use, for now, under these terms.
+
+1. You may install and use Job Radar on your own computers for your own job search.
+2. You may not copy, share, sell, rent or publish Job Radar or any part of it, change it, or take it apart
+   to read or reuse its code. To share it, send people the official download page instead.
+3. The authors may change, limit or end the free version, add paid features, or stop offering Job Radar.
+   Copies you already installed keep working as they are.
+4. Job Radar shows job ads published by companies and job boards. Those ads belong to them. The authors do
+   not check them and are not responsible for their content, for the decisions employers make, or for
+   whether a job is still open.
+5. Job Radar is provided as it is, without any promise that it works, is free of errors, or suits your
+   purpose. As far as the law allows, the authors are not liable for any loss or damage from using it.
+6. What Job Radar collects, and only if you agree, is described in its privacy note (Settings > Help
+   improve Job Radar, or PRIVACY.md on the download page).
+7. These terms are governed by the law of the Czech Republic.
+
+Questions: use "Send feedback" in the app.
